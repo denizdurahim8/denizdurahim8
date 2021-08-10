@@ -5,6 +5,8 @@
 - 📫 How to reach me durahimdeniz@gmail.com
 - ♛ Chess
 - 🏀 Basketball
+- Alev'18
+- UAA'23
 
 <!---
 denizdurahim8/denizdurahim8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
